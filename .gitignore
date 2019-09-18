@@ -39,8 +39,3 @@ pip-log.txt
 *.sublime-workspace
 *.swp
 *.sw[po]
-
-# virtualenv
-bin/
-include/
-lib/
